@@ -5,3 +5,4 @@ A currency converter GUI Program written in ruby and gtk
     gem install gtk3
 Now you can run the program using:
     ruby currency\ converter.rb
+And that's it!
